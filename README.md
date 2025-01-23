@@ -2,7 +2,7 @@
 
 I'm **[`Nikhil`](https://www.linkedin.com/in/nikhil-nikhil-a-b8711a30b)**, I'm a Bug Hunter, and Security Researcher. With expertise in vulnerability assessment and ethical hacking, inspire, and contribute to building a safer digital world.
 
-<a href=https://www.linkedin.com/in/nikhil-nikhil-a-b8711a30b"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <details>
   <summary>More about me</summary>
