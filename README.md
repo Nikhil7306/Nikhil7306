@@ -36,6 +36,14 @@ I'm **[`Nikhil`](https://www.linkedin.com/in/nikhil-nikhil-a-b8711a30b)**, I'm a
       <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&color=000000" alt="Kali Linux" />
       <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&color=000000" alt="SQL" />
       <img src="https://img.shields.io/badge/Nessus-00C176?style=for-the-badge&logo=tenable&color=000000" alt="Nessus" />
+      <img src="https://img.shields.io/badge/John%20the%20Ripper-CC0000?style=for-the-badge&logo=gnu&logoColor=white" alt="John the Ripper" />
+      <img src="https://img.shields.io/badge/ExploitDB-6A0DAD?style=for-the-badge&logo=databricks&logoColor=white" alt="ExploitDB" />
+      <img src="https://img.shields.io/badge/Aircrack--ng-008C45?style=for-the-badge&logo=wifi&logoColor=white" alt="Aircrack-ng" />
+      <img src="https://img.shields.io/badge/Snort-FF3366?style=for-the-badge&logo=snort&logoColor=white" alt="Snort" />
+      <img src="https://img.shields.io/badge/Wifite-FF4500?style=for-the-badge&logo=wifi&logoColor=white" alt="Wifite" />
+      <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Elasticsearch" />
+
+
 
 
   </div>
